@@ -1,0 +1,19 @@
+name: ISAT420
+channels:
+  - conda-forge
+  - Microsoft
+  - defaults
+dependencies:
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - xarray
+  - folium
+  - netcdf4
+  - cdsapi
+  - cartopy
+  - rioxarray
+  - dask
+prefix: C:\Users\tobia\anaconda3\envs\ISAT420
